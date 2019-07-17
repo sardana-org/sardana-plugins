@@ -5,7 +5,7 @@ developers access to the Sardana plugins. The idea of creating such a
 catalogue came from the [SEP16](https://github.com/reszelaz/sardana/blob/sep16/doc/source/sep/SEP16.md).
 
 It is the whole Sardana Community responsibility to keep it up-to-date. So 
-if you develop a Sardana plugin, please consult the CONTRIBUTING.md guide on
+if you develop a Sardana plugin, please consult the [CONTRIBUTING.md](CONTRIBUTING.md) guide on
 how to register your plugin here.
 
 This catalogue groups plugins in the categories:
