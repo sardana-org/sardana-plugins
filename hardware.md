@@ -15,6 +15,13 @@ Low current electrometer
 * **sardana-adlink**
     * link(s):  https://github.com/ALBA-Synchrotron/sardana-adlink
 
+## IcePAP
+
+IcePAP motion controller
+
+* **sardana-icepap**
+    * link(s):  https://github.com/ALBA-Synchrotron/sardana-icepap
+
 ## Linkam
 
 * **sardana-linkam**
