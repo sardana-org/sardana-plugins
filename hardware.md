@@ -1,7 +1,7 @@
 # Sardana plugins for specific hardware
 
 Below you will find a table with Sardana plugins for specific 
-hardware like for example motion controller, detectors, etc.
+hardware like for example motion controllers, detectors, etc.
 
 | Name | Description | Link(s) to project |
 | ---- | ----------- | ------------ |
