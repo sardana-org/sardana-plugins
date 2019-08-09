@@ -21,7 +21,7 @@ This catalogue groups plugins in the categories:
 * [Software](software.md)
 * [Other](other.md)
 
-In order to find a plugin that you need ou can either browse the above
+In order to find a plugin that you need simply browse the above
 categories or use the GitHub search within this repository for a keyword.
 
 If you would like to be notified when new plugins get registered in the
