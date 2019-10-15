@@ -11,3 +11,4 @@ hardware like for example motion controllers, detectors, etc.
 | Linkam | Temperature controller | [**sardana-linkam**](https://github.com/ALBA-Synchrotron/sardana-linkam) |
 | LoCuM | Low current monitor | [**sardana-locum**](https://github.com/ALBA-Synchrotron/sardana-locum) |
 | OPUS | Bruker OPUS spectrometer | [**sardana-opus**](https://github.com/ALBA-Synchrotron/sardana-opus) |
+| AmptekPX5 | AmptekPX5 Multi-channel analyzer | [**AmptekPX5**](https://github.com/ALBA-Synchrotron/AmptekPX5) |
