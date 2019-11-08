@@ -12,7 +12,7 @@ hardware like for example motion controllers, detectors, etc.
 | HasyDAC | DAC as motor | [**HasyDACCtrl**](https://sourceforge.net/p/sardana/controllers.git/ci/master/tree/python/motor/HasyDACCtrl.py) |
 | HasyMotor | DESY motors (all motors controlled by Tango Servers developed at DESY, ex. OmsVme58, NewFocus, Kohzu, AttoCube, Galil, Micos, Aerotech, OwisMMS19, PI (C863Mercury, E709, NV40, C867, E185, E710, E712, E725, E816, E861, E867, E871,...) | [**HasyMotorCtrl**](https://sourceforge.net/p/sardana/controllers.git/ci/master/tree/python/motor/HasyMotorCtrl.py) |
 | HasyInterferometer | DESY inteferometer | [**HasyInterferomenter**](https://sourceforge.net/p/sardana/controllers.git/ci/master/tree/python/countertimer/HasyInterferometerCtrl.py) |
-| HKLMotor | Diffractometer axis controller | [**HKLMotorCtrl**](https://sourceforge.net/p/sardana/controllers.git/ci/master/tree/python/countertimer/HKLMotorCtrl.py) |
+| HKLMotor | Diffractometer axis controller | [**HKLMotorCtrl**](https://sourceforge.net/p/sardana/controllers.git/ci/master/tree/python/motor/HKLMotorCtrl.py) |
 | IcePAP | IcePAP motion controller | [**sardana-icepap**](https://github.com/ALBA-Synchrotron/sardana-icepap) |
 | Linkam | Temperature controller | [**sardana-linkam**](https://github.com/ALBA-Synchrotron/sardana-linkam) |
 | LoCuM | Low current monitor | [**sardana-locum**](https://github.com/ALBA-Synchrotron/sardana-locum) |
