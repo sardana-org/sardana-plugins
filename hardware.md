@@ -19,7 +19,7 @@ hardware like for example motion controllers, detectors, etc.
 | HasyOneD | OneD controller for MCA8701, Kromo, Avantes, SIS3302 and MCA8715  | [**HasyOneDCtrl**](https://sourceforge.net/p/sardana/controllers.git/ci/master/tree/python/oned/HasyOneDCtrl.py) |
 | HKLMotor | Diffractometer axis controller | [**HKLMotorCtrl**](https://sourceforge.net/p/sardana/controllers.git/ci/master/tree/python/motor/HKLMotorCtrl.py) |
 | IcePAP | IcePAP motion controller | [**sardana-icepap**](https://github.com/ALBA-Synchrotron/sardana-icepap) |
-| IBA | Image Beam Analyzer controller | [**sardana-iba**](https://github.com/ALBA-Synchrotron/sardana-iba) |
+| IBA | Image Beam Analyzer controller for Basler cameras | [**sardana-iba**](https://github.com/ALBA-Synchrotron/sardana-iba) |
 | HzgDcam | HzgD camera | [**HzgDcam**](https://sourceforge.net/p/sardana/controllers.git/ci/master/tree/python/twod/HzgDcam.py) |
 | Lambda | Lambda detector | [**Lambda**](https://sourceforge.net/p/sardana/controllers.git/ci/master/tree/python/twod/Lambda.py) |
 | LCXCamera | LCX camera| [**LCXCamera**](https://sourceforge.net/p/sardana/controllers.git/ci/master/tree/python/twod/LCXCamera.py) |
