@@ -20,4 +20,4 @@ systems like for example a synchrotron beamline, a laboratory, etc.
 
 | Name | Description | Link(s) to project |
 | ---- | ----------- | ------------ |
-| MBI SXR Scattering | Soft X-ray Scattering Beamline at MBI | [**sardana-mbi-sxr-scattering**](https://github.com/dschick/sardana-mbi-sxr-scattering) |
+| MBI SXR Scattering | Soft X-ray Scattering Beamline at MBI | [**sardana-mbi-sxr-scattering**](https://github.com/MBI-org/sardana-mbi-sxr-scattering) |
