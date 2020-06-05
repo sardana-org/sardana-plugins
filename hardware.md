@@ -31,6 +31,7 @@ hardware like for example motion controllers, detectors, etc.
 | OxfordCryostream700 | OxfordCryostream700 as motor | [**OxfordCryostream700Ctrl**](https://sourceforge.net/p/sardana/controllers.git/ci/master/tree/python/motor/OxfordCryostream700Ctrl.py) |
 | PCO | PCO detector | [**PCO**](https://sourceforge.net/p/sardana/controllers.git/ci/master/tree/python/twod/PCO.py) |
 | PerkinElmer | PerkinElmer detector | [**PerkinElmer**](https://sourceforge.net/p/sardana/controllers.git/ci/master/tree/python/twod/PerkinElmer.py) |
+| PhytronMCC2 | Phytron MCC2 motor controller | [**pytango-PhytronMCC2**](https://github.com/MBI-org/pytango-PhytronMCC2) |
 | Pilatus | Pilatus detector | [**Pilatus**](https://sourceforge.net/p/sardana/controllers.git/ci/master/tree/python/twod/Pilatus.py) |
 | PiLCGTVFCTimer | PiLCGTVFCTimer timer | [**PiLCGTVFCTimerCtrl**](https://sourceforge.net/p/sardana/controllers.git/ci/master/tree/python/countertimer/PiLCGTVFCTimerCtrl.py) |
 | PiLCTimer | PiLCTriggerGenerator as timer | [**PiLCTimer**](https://sourceforge.net/p/sardana/controllers.git/ci/master/tree/python/countertimer/pilcTimerCtrl.py) |
