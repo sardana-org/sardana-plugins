@@ -26,12 +26,12 @@ hardware like for example motion controllers, detectors, etc.
 | Linkam | Temperature controller | [**sardana-linkam**](https://github.com/ALBA-Synchrotron/sardana-linkam) |
 | LoCuM | Low current monitor | [**sardana-locum**](https://github.com/ALBA-Synchrotron/sardana-locum) |
 | MarCCD | Mar CCD | [**MarCCD**](https://sourceforge.net/p/sardana/controllers.git/ci/master/tree/python/twod/MarCCD.py) |
+| MbiTangoMotor| MBI Tango Motor controller | [**sardana-MbiTangoMotorController**](https://github.com/MBI-Div-B/sardana-MbiTangoMotorController) |
 | MHzDAQp01 | MHz DAQ | [**MHzDAQp01Ctrl**](https://sourceforge.net/p/sardana/controllers.git/ci/master/tree/python/countertimer/MHzDAQp01Ctrl.py) |
 | OPUS | Bruker OPUS spectrometer | [**sardana-opus**](https://github.com/ALBA-Synchrotron/sardana-opus) |
 | OxfordCryostream700 | OxfordCryostream700 as motor | [**OxfordCryostream700Ctrl**](https://sourceforge.net/p/sardana/controllers.git/ci/master/tree/python/motor/OxfordCryostream700Ctrl.py) |
 | PCO | PCO detector | [**PCO**](https://sourceforge.net/p/sardana/controllers.git/ci/master/tree/python/twod/PCO.py) |
 | PerkinElmer | PerkinElmer detector | [**PerkinElmer**](https://sourceforge.net/p/sardana/controllers.git/ci/master/tree/python/twod/PerkinElmer.py) |
-| PhytronMCC2 | Phytron MCC2 motor controller | [**pytango-PhytronMCC2**](https://github.com/MBI-org/pytango-PhytronMCC2) |
 | Pilatus | Pilatus detector | [**Pilatus**](https://sourceforge.net/p/sardana/controllers.git/ci/master/tree/python/twod/Pilatus.py) |
 | PiLCGTVFCTimer | PiLCGTVFCTimer timer | [**PiLCGTVFCTimerCtrl**](https://sourceforge.net/p/sardana/controllers.git/ci/master/tree/python/countertimer/PiLCGTVFCTimerCtrl.py) |
 | PiLCTimer | PiLCTriggerGenerator as timer | [**PiLCTimer**](https://sourceforge.net/p/sardana/controllers.git/ci/master/tree/python/countertimer/pilcTimerCtrl.py) |
