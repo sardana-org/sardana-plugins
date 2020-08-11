@@ -30,6 +30,7 @@ hardware like for example motion controllers, detectors, etc.
 | MHzDAQp01 | MHz DAQ | [**MHzDAQp01Ctrl**](https://sourceforge.net/p/sardana/controllers.git/ci/master/tree/python/countertimer/MHzDAQp01Ctrl.py) |
 | OPUS | Bruker OPUS spectrometer | [**sardana-opus**](https://github.com/ALBA-Synchrotron/sardana-opus) |
 | OxfordCryostream700 | OxfordCryostream700 as motor | [**OxfordCryostream700Ctrl**](https://sourceforge.net/p/sardana/controllers.git/ci/master/tree/python/motor/OxfordCryostream700Ctrl.py) |
+| PandABox | PandABox system | [**sardana-pandabox**](https://github.com/MaxIV-KitsControls/sardana-pandabox) |
 | PCO | PCO detector | [**PCO**](https://sourceforge.net/p/sardana/controllers.git/ci/master/tree/python/twod/PCO.py) |
 | PerkinElmer | PerkinElmer detector | [**PerkinElmer**](https://sourceforge.net/p/sardana/controllers.git/ci/master/tree/python/twod/PerkinElmer.py) |
 | Pilatus | Pilatus detector | [**Pilatus**](https://sourceforge.net/p/sardana/controllers.git/ci/master/tree/python/twod/Pilatus.py) |
