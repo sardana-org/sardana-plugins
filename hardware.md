@@ -51,6 +51,7 @@ hardware like for example motion controllers, detectors, etc.
 | SIS3302MultiScan | SIS3302 in multiscan mode | [**SIS3302MultiScanCtrl**](https://sourceforge.net/p/sardana/controllers.git/ci/master/tree/python/oned/SIS3302MultiScanCtrl.py) |
 | SIS3610 | SIS3610 IORegister | [**SIS3610Ctrl**](https://sourceforge.net/p/sardana/controllers.git/ci/master/tree/python/ioregister/SIS3610Ctrl.py) |
 | SIS3820 | SIS3820 counter | [**SIS3820Ctrl**](https://sourceforge.net/p/sardana/controllers.git/ci/master/tree/python/countertimer/SIS3820Ctrl.py) |
+| SmaractMCS2| SmarAct MCS2 Controller (compatible with SmarActMCS2Controller) | [**SmarActMCS2Controller**](https://github.com/MBI-Div-B/sardana-SmarActMCS2Controller) |
 | SPADQ | SPADQ Digitizer | [**SPADQOneDCtrl**](https://sourceforge.net/p/sardana/controllers.git/ci/master/tree/python/oned/SPADQOneDCtrl.py) |
 | TangoVimba | Allied Vision cameras with Vimba SDK | [**TangoVimba**](https://sourceforge.net/p/sardana/controllers.git/ci/master/tree/python/twod/TangoVimba.py) |
 | VFCADC | VFCADC device | [**VFCADCCtrl**](https://sourceforge.net/p/sardana/controllers.git/ci/master/tree/python/countertimer/VFCADCCtrl.py) |
